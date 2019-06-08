@@ -181,7 +181,7 @@ Congratulations on successfully deploying the application!
 
 ## Getting help
 
-If you have questions, concerns, bug reports, etc., please file an issue in this repository's [Issue Tracker](./issues).
+If you have questions, concerns, bug reports, etc., please file an issue in this repository's [Issue Tracker](https://github.com/CiscoDevNet/cat9k-device-monitoring-app/issues).
 
 
 ## Licensing info
