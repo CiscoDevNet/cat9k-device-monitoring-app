@@ -191,7 +191,7 @@ The code is licensed under the Cisco Sample Code License, Version 1.1.
 
 ## References
 
-1. IOx App Concepts, https://developer.cisco.com/docs/iox/#!application-development-concepts/application-development-concepts
-2. IOx App Tutorials, https://developer.cisco.com/docs/iox/#!overview
-3. Application Hosting on Catalyst 9K, https://developer.cisco.com/docs/iox/#!catalyst-9000-series-application-development/application-types-supported
+1. Application Hosting on Catalyst 9K, https://developer.cisco.com/docs/app-hosting/
+2. IOx App Concepts, https://developer.cisco.com/docs/iox/#!application-development-concepts/application-development-concepts
+3. IOx App Tutorials, https://developer.cisco.com/docs/iox/#!overview
 
