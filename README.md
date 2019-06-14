@@ -192,6 +192,7 @@ The code is licensed under the Cisco Sample Code License, Version 1.1.
 ## References
 
 1. Application Hosting on Catalyst 9K, https://developer.cisco.com/docs/app-hosting/
-2. IOx App Concepts, https://developer.cisco.com/docs/iox/#!application-development-concepts/application-development-concepts
-3. IOx App Tutorials, https://developer.cisco.com/docs/iox/#!overview
+2. Cisco IOS XE Programmability: Automating Device Lifecycle Management, https://www.cisco.com/c/dam/en/us/products/collateral/enterprise-networks/nb-06-ios-xe-prog-ebook-cte-en.pdf
+3. IOx App Concepts, https://developer.cisco.com/docs/iox/#!application-development-concepts/application-development-concepts
+4. IOx App Tutorials, https://developer.cisco.com/docs/iox/#!overview
 
